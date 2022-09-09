@@ -1,0 +1,15 @@
+C:\Users\Fedor\Documents\учеба phyton\41\DZ_41_43\bin\Debug\net6.0\DZ_41_43.exe
+C:\Users\Fedor\Documents\учеба phyton\41\DZ_41_43\bin\Debug\net6.0\DZ_41_43.deps.json
+C:\Users\Fedor\Documents\учеба phyton\41\DZ_41_43\bin\Debug\net6.0\DZ_41_43.runtimeconfig.json
+C:\Users\Fedor\Documents\учеба phyton\41\DZ_41_43\bin\Debug\net6.0\DZ_41_43.dll
+C:\Users\Fedor\Documents\учеба phyton\41\DZ_41_43\bin\Debug\net6.0\DZ_41_43.pdb
+C:\Users\Fedor\Documents\учеба phyton\41\DZ_41_43\obj\Debug\net6.0\DZ_41_43.csproj.AssemblyReference.cache
+C:\Users\Fedor\Documents\учеба phyton\41\DZ_41_43\obj\Debug\net6.0\DZ_41_43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fedor\Documents\учеба phyton\41\DZ_41_43\obj\Debug\net6.0\DZ_41_43.AssemblyInfoInputs.cache
+C:\Users\Fedor\Documents\учеба phyton\41\DZ_41_43\obj\Debug\net6.0\DZ_41_43.AssemblyInfo.cs
+C:\Users\Fedor\Documents\учеба phyton\41\DZ_41_43\obj\Debug\net6.0\DZ_41_43.csproj.CoreCompileInputs.cache
+C:\Users\Fedor\Documents\учеба phyton\41\DZ_41_43\obj\Debug\net6.0\DZ_41_43.dll
+C:\Users\Fedor\Documents\учеба phyton\41\DZ_41_43\obj\Debug\net6.0\refint\DZ_41_43.dll
+C:\Users\Fedor\Documents\учеба phyton\41\DZ_41_43\obj\Debug\net6.0\DZ_41_43.pdb
+C:\Users\Fedor\Documents\учеба phyton\41\DZ_41_43\obj\Debug\net6.0\DZ_41_43.genruntimeconfig.cache
+C:\Users\Fedor\Documents\учеба phyton\41\DZ_41_43\obj\Debug\net6.0\ref\DZ_41_43.dll
